@@ -1,0 +1,26 @@
+{
+  "name": "storerocket",
+  "displayName": "StoreRocket Store Locator",
+  "version": "1.0.0",
+  "description": "Set up and run the store locator on your website: add and update locations, get the install code, and see how visitors use it, including where they searched without finding a store.",
+  "author": {
+    "name": "StoreRocket",
+    "email": "hello@storerocket.io",
+    "url": "https://storerocket.io"
+  },
+  "homepage": "https://storerocket.io/ai-agents",
+  "repository": "https://github.com/storerocket/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "store locator",
+    "locations",
+    "dealer locator",
+    "stockists",
+    "maps"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://docs.storerocket.io/api/mcp",
+  "supportUrl": "https://storerocket.io/contact",
+  "privacyPolicyUrl": "https://storerocket.io/privacy",
+  "termsOfServiceUrl": "https://storerocket.io/terms"
+}

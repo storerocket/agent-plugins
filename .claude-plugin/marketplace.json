@@ -1,0 +1,18 @@
+{
+  "name": "storerocket",
+  "owner": {
+    "name": "StoreRocket",
+    "email": "hello@storerocket.io"
+  },
+  "metadata": {
+    "description": "Official StoreRocket plugins for AI assistants."
+  },
+  "plugins": [
+    {
+      "name": "storerocket",
+      "source": "./plugins/storerocket",
+      "description": "Set up and run the store locator on your website with Claude.",
+      "category": "productivity"
+    }
+  ]
+}
