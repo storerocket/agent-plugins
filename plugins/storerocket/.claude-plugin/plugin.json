@@ -1,7 +1,7 @@
 {
   "name": "storerocket",
   "displayName": "StoreRocket Store Locator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set up and run the store locator on your website: add and update locations, get the install code, and see how visitors use it, including where they searched without finding a store.",
   "author": {
     "name": "StoreRocket",

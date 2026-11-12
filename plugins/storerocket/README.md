@@ -4,11 +4,11 @@ StoreRocket runs the store locator on your website: the map and list where custo
 
 ## What it does
 
-- **Connects Claude to StoreRocket.** Claude can find, add and update your locations (addresses, opening hours, categories, custom fields and buttons), get the code that puts the locator on your website, and read how visitors use it: views, searches, clicks, leads, and the places people searched without finding a store.
+- **Connects Claude to StoreRocket.** Claude can find, add and update your locations (addresses, opening hours, categories, custom fields and buttons), create and change the custom fields and buttons themselves (a "Book a visit" button on every store in one ask), get the code that puts the locator on your website, and read how visitors use it: views, searches, clicks, leads, and the places people searched without finding a store.
 - **Sets you up, step by step.** The `get-started` skill finds your store locator, adds your stores if it is empty, gives you the install code for your website platform, and checks that the locator is live once you publish.
 - **Reports what visitors want.** The `performance-report` skill shows how your locator did against the period before, what visitors searched for, where they found no store nearby, and the few actions worth taking.
 
-Claude asks before every change, and each deletion removes one location at a time. The connection cannot see your billing or change your plan, password or team.
+Claude asks before every change, and each deletion removes one location, field or button at a time. The connection cannot see your billing or change your plan, password or team.
 
 ## Try asking
 
@@ -26,7 +26,7 @@ In Claude, add **StoreRocket Store Locator** from the plugin directory. In Claud
 /plugin install storerocket --marketplace storerocket/agent-plugins
 ```
 
-The first time Claude uses StoreRocket, sign in with your StoreRocket login and choose what to allow. New to StoreRocket? [Start a free trial](https://storerocket.io/get-started?utm_source=claude&utm_medium=plugin&utm_campaign=agent-plugins) or create your account while you connect. Free trials and plans that include API access can connect.
+The first time Claude uses StoreRocket, sign in with your StoreRocket login and choose what to allow. New to StoreRocket? [Start a free trial](https://storerocket.io/get-started?utm_source=claude&utm_medium=plugin&utm_campaign=agent-plugins) or create your account while you connect. Every plan and free trial can connect. Visitor statistics follow your plan's Analytics.
 
 ## How it connects
 
